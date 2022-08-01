@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjellyfin_org=self.webpackChunkjellyfin_org||[]).push([[3851],{7322:function(e,l,n){n.r(l),n.d(l,{default:function(){return u}});var t=n(7294),r=n(2164);function u(){return t.createElement(r.Z,null,t.createElement("h1",null,"Clients"),t.createElement("p",null,"Placeholder page"))}}}]);
