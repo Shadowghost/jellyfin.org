@@ -22,7 +22,7 @@
     "@icons-pack/react-simple-icons": "^4.6.1",
     "@img-comparison-slider/react": "^7.1.1",
     "@mdx-js/react": "^1.6.21",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^6.5.1",
     "clsx": "^1.1.1",
     "file-loader": "^6.2.0",
     "react": "^17.0.1",
